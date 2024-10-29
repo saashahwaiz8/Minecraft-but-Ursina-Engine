@@ -1,2 +1,2 @@
-# Minecraft-but-Ursina-Engine
+# Download all the files in the folder where you saved your python file!
 Go programmers!
